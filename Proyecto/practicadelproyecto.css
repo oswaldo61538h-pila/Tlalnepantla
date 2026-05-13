@@ -23,6 +23,7 @@ body{
 .tercero{
     display: grid;
     margin: 5px;
+    font-family: "Elms Sans", sans-serif;
 }
 .madredecuadritos{
     display: grid;
@@ -36,12 +37,13 @@ body{
 .cuadritoss,.cuadritos1,.cuadritos2,.cuadritos3,.cuadritos4,.cuadritos5,.cuadritos6,.cuadritos7{
     border-radius: 10px;
     background-color: #6B8E23;
+    font-family: "Elms Sans", sans-serif;
     display: grid;
     width: 268px;
     margin: 7px;
     height: 150px;
     text-align: center;
-    color: yellow;
+    color: white;
 }
 .cuadritoss{
     background-image:url("Captura de pantalla 2026-04-22 093139.png");
@@ -77,6 +79,7 @@ body{
 }
 .descripcion{
     background-color: #6B8F3E;
+    font-family: "Elms Sans", sans-serif;
 }
 .madredevideo{
     display: grid;
@@ -90,12 +93,12 @@ body{
     margin: 5px;
 }
 .tlalne{
+    font-family: "Playwrite GB S", cursive;
     border-radius: 10px;
     background-color: #2D5A27;
     text-align: center;
     color: #E8F4DC;
     font-size: 50px;
-    font-style: italic;
     margin: 5px;
 }
 .logo{
@@ -121,6 +124,7 @@ body{
 }
 .quinto{
     background-color: #6B8F3E;
+    font-family: "Elms Sans", sans-serif;
     border-radius: 10px;
     margin: 8px;
     display: grid;
