@@ -1,0 +1,33 @@
+.arriba{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr
+}
+#imagen{
+    width: 300px;
+}
+.titulo{
+    text-align: center;
+}
+.segundo{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+.tercero{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+.cuarto{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+.quinto{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+#imagen3{
+    width: 650px;
+    background-size: cover;
+}
+body{
+    background-color: #2D5A27;
+}

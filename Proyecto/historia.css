@@ -1,0 +1,18 @@
+.titulo{
+    display: grid;
+    grid-template-columns: .3fr 5fr 2fr;
+    background-color:#6B8F3E;
+    height: 150px;
+}
+#imagen{
+    width: 432px;
+}
+.descripcion{
+    background-color: #35530E;
+}
+.historia{
+    text-align: center;
+}
+body{
+    background-color: #2D5A27;
+}

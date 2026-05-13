@@ -1,0 +1,21 @@
+.arriba{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#titulo{
+    text-align: center;
+}
+.titulo{
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
+}
+.logo{
+    background-size: cover;
+}
+#imagen{
+    height: 150px;
+    width: 350px;
+}
+body{
+    background-color: #2D5A27;
+}

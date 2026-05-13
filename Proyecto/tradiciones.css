@@ -1,0 +1,24 @@
+.arriba{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+}
+.logoo{
+    background-size: cover;
+}
+#imagen{
+    width: 300px;
+}
+.titulo{
+    text-align: center;
+}
+.segundo{
+    display: grid;
+    grid-template-columns: 3fr 3fr ;
+}
+.tercero{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+body{
+    background-color: #2D5A27;
+}
